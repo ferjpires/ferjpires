@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2FAjA6&psig=AOvVaw09f6Dv5ZG5fRJwVGY1ovXu&ust=1703457330498000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCnsJzPpoMDFQAAAAAdAAAAABAs)](https://ferjpires.io)
+[![MasterHead](https://static.wixstatic.com/media/73ac76_36cb87ec57494390b39bc6a10852a155~mv2.gif)](https://ferjpires.io)
 <h1 align="center">Hi 👋, I'm Fernando Pires</h1>
 <h3 align="center">A passionate Informatics Engineer student from Braga, Portugal</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
