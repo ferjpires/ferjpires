@@ -1,4 +1,4 @@
-[![MasterHead](https://media0.giphy.com/media/gDPxwdP6SKFnsWDJ2u/giphy.gif)](https://ferjpires.io)
+[![MasterHead]([https://media0.giphy.com/media/gDPxwdP6SKFnsWDJ2u/giphy.gif](https://i.gifer.com/AjA6.gif))](https://ferjpires.io)
 <h1 align="center">Hi 👋, I'm Fernando Pires</h1>
 <h3 align="center">A passionate Informatics Engineer student from Braga, Portugal</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
