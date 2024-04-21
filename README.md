@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NextJS to improve my frontend abilities**
 
-- 👨‍💻 All of my projects are available at [ToDo portfolio](ToDo portfolio)
+- 👨‍💻 Check out to learn more: **https://ferjpires.github.io/portfolio/**
 
 - 📫 How to reach me **ferjpires@gmail.com**
 
