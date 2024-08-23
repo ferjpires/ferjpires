@@ -75,8 +75,4 @@
 
 ## 🌱 Contributions
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ferjpires/ferjpires/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ferjpires/ferjpires/blob/output/github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+![snake gif](https://github.com/your-user-name/ferjpires/blob/output/github-contribution-grid-snake.gif)
