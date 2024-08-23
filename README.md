@@ -75,4 +75,4 @@
 
 ## 🌱 Contributions
 
-![snake gif](https://github.com/your-user-name/ferjpires/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/ferjpires/ferjpires/blob/output/github-contribution-grid-snake.gif)
